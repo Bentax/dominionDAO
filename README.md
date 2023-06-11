@@ -1,6 +1,6 @@
 # How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat
 
-Read the full tutorial here: [**>> How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat**](https://daltonic.github.io)
+Read the full tutorial here: [**>> How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat**](https://hackernoon.com/how-to-build-a-glorious-web30-dao-with-react-solidity-and-cometchat/)
 
 This example shows How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat:
 
